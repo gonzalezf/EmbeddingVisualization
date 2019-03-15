@@ -3,7 +3,7 @@
     {
       "tensorName": "English Dataset",
       "tensorShape": [76122, 300],
-      "tensorPath": "oss_data/embedding_english_word2vec_300dimensions_cbow_trim3_epoch50_tensors.tsv",
+      "tensorPath": "https://gonzalezf.github.io/EmbeddingVisualization/oss_data/embedding_english_word2vec_300dimensions_cbow_trim3_epoch50_tensors.tsv",
       "metadataPath": "oss_data/embedding_english_word2vec_300dimensions_cbow_trim3_epoch50_metadata.tsv"
     },
     {
