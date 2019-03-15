@@ -1,3 +1,3 @@
 # Embedding-Visualisation
 
-Please don't share.
+Please don't share this repository
