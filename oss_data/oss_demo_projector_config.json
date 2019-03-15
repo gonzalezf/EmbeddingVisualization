@@ -2,13 +2,13 @@
   "embeddings": [
     {
       "tensorName": "Spanish Dataset",
-      "tensorShape": [29718, 300],
+      "tensorShape": [21735, 300],
       "tensorPath": "oss_data/embedding_spanish_word2vec_300dimensions_cbow_trim3_epoch50_tensors.tsv",
       "metadataPath": "oss_data/embedding_spanish_word2vec_300dimensions_cbow_trim3_epoch50_metadata.tsv"
     },
     {
       "tensorName": "English Dataset",
-      "tensorShape": [114115, 300],
+      "tensorShape": [76122, 300],
       "tensorPath": "oss_data/embedding_english_word2vec_300dimensions_cbow_trim3_epoch50_tensors.tsv",
       "metadataPath": "oss_data/embedding_english_word2vec_300dimensions_cbow_trim3_epoch50_metadata.tsv"
     }
